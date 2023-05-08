@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/chaya-segal/](https://www.linkedin.com/in/chaya-segal/)
 
-- 💬 Ask me about **Mern**
+- 💬 Ask me about **Mern Stack**
 
 - 📫 How to reach me **chayale90@gmail.com**
 

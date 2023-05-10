@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaya Segal</h1>
 <h3 align="center">Full Stack Developer with self-learning skills, precision, problem-solving, and setting goals.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayale90&label=Profile%20views&color=0e75b6&style=flat" alt="chayale90" /> </p>
 

@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Target**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.js&&TypeScript**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/chaya-segal/](https://www.linkedin.com/in/chaya-segal/)
 

@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayale90&label=Profile%20views&color=0e75b6&style=flat" alt="chayale90" /> </p>
 
-- 🔭 I’m currently working as freelace at **Puzzle Web**
+- 🔭 I’m currently working at **Avia-Home**
 
 - 🌱 I’m currently learning **Next.js & TypeScript**
 

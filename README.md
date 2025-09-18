@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **Avia-Home**
 
-- 🌱 I’m currently learning **Next.js & TypeScript**
+- 🌱 I’m currently working with **Next.js & TypeScript**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/chaya-segal/](https://www.linkedin.com/in/chaya-segal/)
 
